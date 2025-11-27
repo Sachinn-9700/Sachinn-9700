@@ -1,6 +1,6 @@
 # 🏄‍♂️ Sachin Bashetti.
 
-**`Evolving DevOps Enthusiast (networking roots, diving into infrastructure as code)`**
+**`Evolving DevOps Enthusiast (networking roots, diving into AWS_Devops)`**
 
 I am a Network Engineer actively transitioning into DevOps.  
 My focus is on Linux troubleshooting, automation, and Infrastructure as Code with Terraform and AWS.  
