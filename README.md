@@ -12,9 +12,9 @@ I focus on understanding **how systems work end-to-end** — from code changes t
 
 ### 🧩 DevOps & Cloud
 
-* CI/CD: **GitHub Actions**, Jenkins (Basic)
+* CI/CD: **GitHub Actions**, Jenkins 
 * Containers: **Docker**, Multi-Stage Builds, Image Optimization
-* Orchestration: **Kubernetes** (Deployments, Services, Ingress, ConfigMaps, Secrets)
+* Orchestration: Kubernetes (Deployments, Services, Ingress, ConfigMaps, Secrets, PVCs, Namespaces)
 * Packaging: **Helm Charts**
 * GitOps: **Argo CD**, Git as Source of Truth
 * Infrastructure as Code: **Terraform (AWS Basics)**
@@ -23,7 +23,7 @@ I focus on understanding **how systems work end-to-end** — from code changes t
 ### 🖥️ Systems & Networking
 
 * Linux Administration & Troubleshooting
-* Networking Fundamentals (DNS, Ports, Services, SSH)
+* Networking Fundamentals (DNS, Ports, Services,)
 * Bash Scripting & Automation
 * Process & Service Management (`systemctl`, `cron`)
 * Infrastructure Troubleshooting & Root Cause Analysis
@@ -34,7 +34,7 @@ I focus on understanding **how systems work end-to-end** — from code changes t
 
 ### 🛒 CloudCart Platform (In Progress)
 
-Production-inspired cloud-native e-commerce platform built to practice real-world DevOps workflows.
+Production-inspired cloud-native e-commerce platform being evolved into a microservices architecture to practice real-world DevOps, Kubernetes, GitOps, observability, and cloud deployment workflows.
 
 **Current Stack**
 
@@ -48,16 +48,24 @@ Production-inspired cloud-native e-commerce platform built to practice real-worl
 * Monitoring & Observability
 
 **Current Focus**
+* Expanding CloudCart into a Microservices Architecture
+* GitOps Workflows using Argo CD
+* CI/CD Automation using GitHub Actions
+* Monitoring & Observability with Prometheus & Grafana
+* AWS Deployment Roadmap (Terraform + EKS)
 
-* GitOps Workflows
-* CI/CD Automation
-* AWS Deployment Roadmap
+**Microservices Roadmap**
+* Auth Service ✅
+* Product Service ⏳
+* Order Service ⏳
+* Payment Service ⏳
+* Full Service-to-Service Communication ⏳
 
 ---
 
 ### 🚀 GitOps-Based Kubernetes Deployment
 
-Implemented a GitOps workflow using GitHub Actions and Argo CD.
+Implemented GitOps-based application delivery using GitHub Actions and Argo CD.
 
 **Highlights**
 
