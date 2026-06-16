@@ -79,7 +79,7 @@ Implemented GitOps-based application delivery using GitHub Actions and Argo CD.
 
 ### ⚙️ CI/CD Pipeline Automation
 
-Built CI pipelines using GitHub Actions and Jenkins.
+Built CI/CD pipelines using and Jenkins.
 
 **Highlights**
 
