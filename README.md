@@ -104,7 +104,6 @@ Built CI/CD pipelines using and Jenkins.
 
 * Build first, then refine
 * Prefer clarity over buzzwords
-* Document decisions like I'd explain them in an interview
 * Improve projects incrementally instead of chasing perfection
 * Focus on understanding root causes rather than memorizing commands
 
