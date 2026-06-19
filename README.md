@@ -52,7 +52,7 @@ Production-inspired cloud-native e-commerce platform being evolved into a micros
 * GitOps Workflows using Argo CD
 * CI/CD Automation using GitHub Actions
 * Monitoring & Observability with Prometheus & Grafana
-* AWS Deployment Roadmap (Terraform + EKS)
+* AWS Deployment (Terraform + EKS)
 
 **Microservices Roadmap**
 * Auth Service ✅
@@ -114,3 +114,4 @@ Built CI/CD pipelines using and Jenkins.
 To grow into a DevOps Engineering role by building production-inspired systems that demonstrate real-world skills in Kubernetes, GitOps, CI/CD, observability, cloud infrastructure, and automation.
 
 Long-term, I aim to contribute to cloud-native platforms and AI-assisted operations at scale.
+
