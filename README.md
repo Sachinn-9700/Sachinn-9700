@@ -12,9 +12,9 @@ I focus on understanding **how systems work end-to-end** — from code changes t
 
 ### 🧩 DevOps & Cloud
 
-* CI/CD: **GitHub Actions**, Jenkins 
-* Containers: **Docker**, Multi-Stage Builds, Image Optimization
-* Orchestration: Kubernetes (Deployments, Services, Ingress, ConfigMaps, Secrets, PVCs, Namespaces)
+* CI/CD: **GitHub Actions**, Jenkins
+* Containers: **Docker**, Docker Compose, Multi-Stage Builds, Image Optimization
+* Orchestration: Kubernetes (Deployments, Services, Ingress, ConfigMaps, Secrets, PVCs, Namespaces, HPA)
 * Packaging: **Helm Charts**
 * GitOps: **Argo CD**, Git as Source of Truth
 * Infrastructure as Code: **Terraform (AWS Basics)**
@@ -23,7 +23,7 @@ I focus on understanding **how systems work end-to-end** — from code changes t
 ### 🖥️ Systems & Networking
 
 * Linux Administration & Troubleshooting
-* Networking Fundamentals (DNS, Ports, Services,)
+* Networking Fundamentals (DNS, Ports, Services)
 * Bash Scripting & Automation
 * Process & Service Management (`systemctl`, `cron`)
 * Infrastructure Troubleshooting & Root Cause Analysis
@@ -32,7 +32,7 @@ I focus on understanding **how systems work end-to-end** — from code changes t
 
 ## 🚀 What I've Built Recently
 
-### 🛒 CloudCart Platform (In Progress)
+### 🛒 CloudCart Platform *(In Progress)*
 
 Production-inspired cloud-native e-commerce platform being evolved into a microservices architecture to practice real-world DevOps, Kubernetes, GitOps, observability, and cloud deployment workflows.
 
@@ -41,25 +41,42 @@ Production-inspired cloud-native e-commerce platform being evolved into a micros
 * React Frontend
 * FastAPI Auth Service
 * PostgreSQL
-* Docker
-* Kubernetes
-* Helm
+* Docker & Docker Compose
+* Kubernetes (Deployments, Services, Secrets, ConfigMaps, PVCs)
+* Helm Charts
 * NGINX Ingress
-* Monitoring & Observability
+* GitHub Actions
+* Argo CD (GitOps)
+* Prometheus & Grafana
+* Horizontal Pod Autoscaler (HPA)
+
+**Implemented**
+
+* Containerized frontend and backend using multi-stage Docker builds
+* Kubernetes deployment with ConfigMaps, Secrets, Services, PVCs and Ingress
+* Helm chart for application packaging and environment-specific values
+* CI pipeline using GitHub Actions to build and push Docker images
+* Automatic image versioning using Git commit SHA
+* GitOps workflow with Argo CD for Kubernetes deployments
+* Prometheus metrics collection and Grafana dashboards
+* Production-style Kubernetes manifests following GitOps practices
 
 **Current Focus**
-* Expanding CloudCart into a Microservices Architecture
-* GitOps Workflows using Argo CD
-* CI/CD Automation using GitHub Actions
-* Monitoring & Observability with Prometheus & Grafana
-* AWS Deployment (Terraform + EKS)
+
+* Expanding CloudCart into a complete Microservices Architecture
+* AWS Infrastructure using Terraform
+* Amazon EKS Deployment
+* Advanced Observability
+* Progressive Delivery & Production Readiness
 
 **Microservices Roadmap**
+
 * Auth Service ✅
 * Product Service ⏳
+* Cart Service ⏳
 * Order Service ⏳
 * Payment Service ⏳
-* Full Service-to-Service Communication ⏳
+* Service-to-Service Communication ⏳
 
 ---
 
@@ -70,22 +87,23 @@ Implemented GitOps-based application delivery using GitHub Actions and Argo CD.
 **Highlights**
 
 * Git-managed Kubernetes manifests
-* Automated image version updates
+* Automated Docker image builds and pushes
+* Immutable image tagging using Git commit SHA
+* Automatic Helm values update through CI
 * Argo CD reconciliation
-* Immutable image deployments
 * Declarative Kubernetes application delivery
 
 ---
 
 ### ⚙️ CI/CD Pipeline Automation
 
-Built CI/CD pipelines using and Jenkins.
+Built CI/CD pipelines using GitHub Actions and Jenkins.
 
 **Highlights**
 
 * Automated Docker image builds and pushes
-* Versioned image tagging using GitHub Run IDs
-* Automated Kubernetes manifest updates
+* Immutable image tagging using Git commit SHA
+* Automated Helm values updates
 * Deployment-ready artifacts for GitOps workflows
 
 ---
@@ -114,4 +132,3 @@ Built CI/CD pipelines using and Jenkins.
 To grow into a DevOps Engineering role by building production-inspired systems that demonstrate real-world skills in Kubernetes, GitOps, CI/CD, observability, cloud infrastructure, and automation.
 
 Long-term, I aim to contribute to cloud-native platforms and AI-assisted operations at scale.
-
