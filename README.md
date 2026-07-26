@@ -72,7 +72,7 @@ Production-inspired cloud-native e-commerce platform being evolved into a micros
 **Microservices Roadmap**
 
 * Auth Service ✅
-* Product Service ⏳
+* Product Service ✅
 * Cart Service ⏳
 * Order Service ⏳
 * Payment Service ⏳
