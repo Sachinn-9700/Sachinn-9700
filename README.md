@@ -398,5 +398,3 @@ Long-term, I want to work on **cloud-native platforms, infrastructure automation
 > **Don't just deploy an application. Understand and automate everything around it.**
 
 CloudCart is continuously evolving as a practical DevOps engineering project, with each phase focused on adding meaningful engineering capability rather than simply adding more technologies.
-
-```
