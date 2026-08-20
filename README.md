@@ -2,7 +2,7 @@
 
 **`Evolving DevOps Engineer | Networking Roots → Cloud & DevOps`**
 
-I'm a DevOps-focused engineer with a strong networking foundation, building hands-on experience around **CI/CD automation, containerization, Kubernetes, GitOps, observability, infrastructure as code, and cloud-native platforms**.
+I'm DevOps-focused engineer with a strong networking foundation, building hands-on experience around **CI/CD automation, containerization, Kubernetes, GitOps, observability, infrastructure as code, and cloud-native platforms**.
 
 I focus on understanding systems end-to-end — from source code and container images to Kubernetes workloads, networking, deployment automation, monitoring, and troubleshooting.
 
