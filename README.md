@@ -287,7 +287,7 @@ The planned showcase will explain and visualize:
 * Infrastructure architecture
 * DevOps engineering decisions
 
-The goal is to make the project itself **demonstrate the DevOps work that built it**.
+The goal is to make the project itself demonstrate the DevOps work that built it.
 
 ---
 
