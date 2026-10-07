@@ -2,7 +2,7 @@
 
 **`DevOps Engineer | Cloud & DevOps`**
 
-I'm DevOps-focused engineer with a strong networking foundation, building hands-on experience around **CI/CD automation, containerization, Kubernetes, GitOps, observability, infrastructure as code, and cloud-native platforms**.
+I'm DevOps-focused engineer with a strong networking foundation, building hands-on experience around **CI/CD automation, containerization, Kubernetes, GitOps, observability, infrastructure as code, and cloud-native platforms**
 
 I focus on understanding systems end-to-end — from source code and container images to Kubernetes workloads, networking, deployment automation, monitoring, and troubleshooting.
 
@@ -397,4 +397,4 @@ Long-term, I want to work on **cloud-native platforms, infrastructure automation
 
 > **Don't just deploy an application. Understand and automate everything around it.**
 
-CloudCart is continuously evolving as a practical DevOps engineering project, with each phase focused on adding meaningful engineering capability rather than simply adding more technologies.
+CloudCart is continuously evolving as a practical DevOps engineering project, with each phase focused on adding meaningful engineering capability rather than simply adding more technologies
