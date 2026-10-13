@@ -1,12 +1,12 @@
 # 🏄‍♂️ Sachin Bashetti
 
-**`DevOps Engineer | Cloud & DevOps`**
+**`DevOps Engineer | Cloud & DevOps.`**
 
-I'm DevOps-focused engineer with a strong networking foundation, building hands-on experience around **CI/CD automation, containerization, Kubernetes, GitOps, observability, infrastructure as code, and cloud-native platforms**
+I'm DevOps-focused engineer with a strong networking foundation, building hands-on experience around **CI/CD automation, containerization, Kubernetes, GitOps, observability, infrastructure as code, and cloud-native platforms.**
 
 I focus on understanding systems end-to-end — from source code and container images to Kubernetes workloads, networking, deployment automation, monitoring, and troubleshooting.
 
-Rather than collecting tools, I prefer building and operating projects that demonstrate **how different DevOps components work together in a real engineering workflow**.
+Rather than collecting tools, I prefer building and operating projects that demonstrate **how different DevOps components work together in a real engineering workflow**
 
 ---
 
@@ -47,11 +47,11 @@ Rather than collecting tools, I prefer building and operating projects that demo
 
 # 🚀 Featured Project
 
-## ☁️ CloudCart Platform
+## ☁️ CloudCart Platform.
 
 **Production-Style Cloud-Native Microservices Platform**
 
-CloudCart is a production-inspired cloud-native platform built to demonstrate an end-to-end **DevOps engineering workflow**.
+CloudCart is a production-inspired cloud-native platform built to demonstrate an end-to-end **DevOps engineering workflow**
 
 The project covers the complete journey from application containerization to Kubernetes orchestration, CI/CD automation, GitOps deployment, observability, and infrastructure automation.
 
