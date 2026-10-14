@@ -1,6 +1,6 @@
 # 🏄‍♂️ Sachin Bashetti
 
-**`DevOps Engineer | Cloud & DevOps.`**
+**`DevOps Engineer | Cloud & DevOps`**
 
 I'm DevOps-focused engineer with a strong networking foundation, building hands-on experience around **CI/CD automation, containerization, Kubernetes, GitOps, observability, infrastructure as code, and cloud-native platforms.**
 
