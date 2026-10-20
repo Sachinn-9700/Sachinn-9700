@@ -389,7 +389,7 @@ My goal is to transition into a **DevOps Engineering role** by demonstrating pra
 
 CloudCart is my primary hands-on project for bringing these concepts together into one complete engineering workflow.
 
-Long-term, I want to work on **cloud-native platforms, infrastructure automation, and reliable production systems**.
+Long-term, I want to work on **cloud-native platforms, infrastructure automation, and reliable production systems**
 
 ---
 
@@ -397,4 +397,4 @@ Long-term, I want to work on **cloud-native platforms, infrastructure automation
 
 > **Don't just deploy an application. Understand and automate everything around it.**
 
-CloudCart is continuously evolving as a practical DevOps engineering project, with each phase focused on adding meaningful engineering capability rather than simply adding more technologies.
+CloudCart is continuously evolving as a practical DevOps engineering project, with each phase focused on adding meaningful engineering capability rather than simply adding more technologies
